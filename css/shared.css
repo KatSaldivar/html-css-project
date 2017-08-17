@@ -86,6 +86,9 @@ section {
 	height: 105px;
 	max-height: 340px;
 	display: block;
+	font-size: 24pt;
+	color: red;
+	text-align: center;
 }
 
 .container {
